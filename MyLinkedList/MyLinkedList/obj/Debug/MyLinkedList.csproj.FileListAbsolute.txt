@@ -1,0 +1,6 @@
+C:\Sammy\c#\Code\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.csprojResolveAssemblyReference.cache
+C:\Sammy\c#\Code\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.exe.config
+C:\Sammy\c#\Code\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.exe
+C:\Sammy\c#\Code\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.pdb
+C:\Sammy\c#\Code\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.exe
+C:\Sammy\c#\Code\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.pdb
